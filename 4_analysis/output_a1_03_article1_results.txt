@@ -1,0 +1,61 @@
+Effective dose rate, uSv/h per GBq in body (4 h distribution): spongiosa method [DRF method]
+  gap  pos                    Lu177                 Tb161                 Pb212                 Ac225
+   30  FRONT     8.222(1.3%)[0.981]     7.647(2.4%)[0.959]   288.751(1.2%)[0.997]    49.467(1.6%)[0.992]
+   30  SIDE      1.518(2.9%)[0.973]     1.061(5.6%)[0.929]    88.775(2.6%)[0.997]    11.175(3.5%)[0.991]
+   30  BACK     10.088(1.2%)[0.981]     9.109(2.3%)[0.960]   341.609(1.2%)[0.997]    59.700(1.5%)[0.992]
+   50  FRONT     5.301(1.5%)[0.980]     4.983(2.9%)[0.957]   181.495(1.5%)[0.997]    31.172(1.9%)[0.992]
+   50  SIDE      0.997(3.4%)[0.974]     0.709(6.4%)[0.930]    60.055(2.9%)[0.998]     7.497(4.0%)[0.991]
+   50  BACK      6.261(1.4%)[0.981]     5.754(2.8%)[0.957]   207.877(1.4%)[0.997]    36.601(1.8%)[0.992]
+  100  FRONT     2.324(2.2%)[0.980]     2.236(4.0%)[0.955]    77.012(2.2%)[0.997]    13.605(2.8%)[0.992]
+  100  SIDE      0.477(4.5%)[0.974]     0.341(8.3%)[0.928]    28.246(3.9%)[0.998]     3.566(5.3%)[0.992]
+  100  BACK      2.602(2.0%)[0.980]     2.457(3.9%)[0.955]    84.269(2.1%)[0.997]    15.298(2.7%)[0.992]
+  200  FRONT     0.816(3.4%)[0.979]     0.762(6.3%)[0.953]    26.838(3.6%)[0.997]     4.600(4.5%)[0.992]
+  200  SIDE      0.185(7.1%)[0.976]     0.135(9.7%)[0.927]    11.042(6.1%)[0.998]     1.314(7.5%)[0.992]
+  200  BACK      0.889(3.4%)[0.979]     0.838(6.4%)[0.954]    28.005(3.5%)[0.997]     5.086(4.3%)[0.992]
+
+Ka (uGy/h per GBq) and H*(10)/Ka (Sv/Gy), 4 h distribution
+  front_g10_z110         24.030 H/K 1.519     34.050 H/K 1.359    981.868 H/K 1.203    157.864 H/K 1.328
+  front_g30_z110         11.613 H/K 1.516     17.007 H/K 1.357    450.163 H/K 1.206     73.744 H/K 1.328
+  front_g100_z110         2.431 H/K 1.517      3.637 H/K 1.362     93.226 H/K 1.207     15.381 H/K 1.328
+  front_g300_z110         0.369 H/K 1.517      0.537 H/K 1.398     13.831 H/K 1.209      2.276 H/K 1.333
+  left_g100_z110          1.279 H/K 1.504      1.764 H/K 1.364     61.147 H/K 1.189      8.534 H/K 1.312
+  back_g100_z110          2.870 H/K 1.519      4.256 H/K 1.357    103.392 H/K 1.208     17.748 H/K 1.330
+
+Bare point source at 1 m: Gamma_H*(10) [uSv m2/(h GBq)], Gamma_Ka [uGy m2/(h GBq)], photons/decay
+  Lu177:   6.004    4.094   yield 0.2269
+  Tb161:  14.288   11.886   yield 0.7489
+  Pb212: 190.116  161.296   yield 1.7945
+  Ac225:  34.694   27.240   yield 0.6256
+
+H*(10) (uSv/h), 7.4 GBq 177Lu-PSMA, front z=110: 1 m [empty | before void, 2-h voids] ; 2 m [empty | full] ; 0.5 m
+  t=   0.5 h  1 m  27.05 |  27.13   2 m   8.50 |   8.52   0.5 m  73.59   Demir 1 m 48 2 m 24
+  t=   1.0 h  1 m  26.03 |  27.62   2 m   8.18 |   8.64   0.5 m  70.81   Demir 1 m 38 2 m 21
+  t=   2.0 h  1 m  24.12 |  28.51   2 m   7.57 |   8.84   0.5 m  65.65   Demir 1 m 33 2 m 17
+  t=   4.0 h  1 m  20.83 |  25.57   2 m   6.53 |   7.91   0.5 m  56.78   Demir 1 m 23 2 m 11
+  t=   6.0 h  1 m  18.14 |  21.96   2 m   5.69 |   6.80   0.5 m  49.55   Demir 1 m 15 2 m 8
+  t=  18.0 h  1 m   9.59 |  10.74   2 m   3.02 |   3.36   0.5 m  26.51   Demir 1 m 11 2 m 5
+  t=  24.0 h  1 m   7.74 |   8.42   2 m   2.44 |   2.64   0.5 m  21.46   Demir 1 m 7 2 m 3
+  t=  48.0 h  1 m   4.48 |   4.67   2 m   1.42 |   1.47   0.5 m  12.43   Demir 1 m 5 2 m 1
+  t=  72.0 h  1 m   2.96 |   3.08   2 m   0.94 |   0.97   0.5 m   8.21   Demir 1 m - 2 m -
+  t= 120.0 h  1 m   1.34 |   1.39   2 m   0.43 |   0.44   0.5 m   3.72   Demir 1 m 1 2 m 0.3
+  t= 168.0 h  1 m   0.61 |   0.63   2 m   0.20 |   0.20   0.5 m   1.70   Demir 1 m - 2 m -
+
+Time-integrated doses from release (t_rel) to 30 d, continuous presence (occupancy 1); 4-h voiding; per typical activity
+  Lu177  7.400 GBq, t_rel    4 h: H*(10) 1 m     716.1 uSv | E 1 m front    444.2 side    87.3 back    499.4 | E front 0.5 m   1032.4 0.3 m   1616.2 | no-bladder E1m   412.3 | point/phys H*   10044.6
+  Lu177  7.400 GBq, t_rel   24 h: H*(10) 1 m     430.3 uSv | E 1 m front    267.1 side    53.3 back    309.8 | E front 0.5 m    623.8 0.3 m    979.5 | no-bladder E1m   256.8 | point/phys H*    9208.2
+  Tb161  7.400 GBq, t_rel    4 h: H*(10) 1 m     916.9 uSv | E 1 m front    411.5 side    57.9 back    436.4 | E front 0.5 m    931.8 0.3 m   1442.5 | no-bladder E1m   381.3 | point/phys H*   25035.5
+  Tb161  7.400 GBq, t_rel   24 h: H*(10) 1 m     543.9 uSv | E 1 m front    243.7 side    34.9 back    266.3 | E front 0.5 m    554.6 0.3 m    862.6 | no-bladder E1m   233.9 | point/phys H*   23039.7
+  Pb212  0.200 GBq, t_rel    4 h: H*(10) 1 m     134.1 uSv | E 1 m front     91.1 side    32.4 back     97.2 | E front 0.5 m    216.9 0.3 m    347.4 | no-bladder E1m    81.7 | point/phys H*     449.2
+  Pb212  0.200 GBq, t_rel   24 h: H*(10) 1 m      18.4 uSv | E 1 m front     12.5 side     4.5 back     13.8 | E front 0.5 m     30.1 0.3 m     48.5 | no-bladder E1m    12.0 | point/phys H*     121.9
+  Ac225  0.008 GBq, t_rel    4 h: H*(10) 1 m       4.7 uSv | E 1 m front      3.1 side     0.8 back      3.4 | E front 0.5 m      7.1 0.3 m     11.5 | no-bladder E1m     2.9 | point/phys H*      94.2
+  Ac225  0.008 GBq, t_rel   24 h: H*(10) 1 m       2.9 uSv | E 1 m front      1.9 side     0.5 back      2.2 | E front 0.5 m      4.5 0.3 m      7.3 | no-bladder E1m     1.9 | point/phys H*      88.9
+  Lu177: fraction of E(1 m front, from 4 h) in first 24 h 0.443, first 7 d 0.943
+  Tb161: fraction of E(1 m front, from 4 h) in first 24 h 0.452, first 7 d 0.946
+  Pb212: fraction of E(1 m front, from 4 h) in first 24 h 0.902, first 7 d 1.000
+  Ac225: fraction of E(1 m front, from 4 h) in first 24 h 0.412, first 7 d 0.924
+
+Activity in body (GBq) giving 30 uSv/h at 2 m (4 h distribution), front/back/left; and at typical activity
+  Lu177: H*(10) 2 m per GBq front/back/left/right  1.156  1.323  0.646  0.668  -> A_max =   22.68 GBq
+  Tb161: H*(10) 2 m per GBq front/back/left/right  1.612  1.684  0.730  0.836  -> A_max =   17.81 GBq
+  Pb212: H*(10) 2 m per GBq front/back/left/right 35.373 38.071 23.534 24.914  -> A_max =    0.79 GBq
+  Ac225: H*(10) 2 m per GBq front/back/left/right  6.260  6.973  3.875  3.674  -> A_max =    4.30 GBq

@@ -1,0 +1,6 @@
+P0 rebuilt identical to the official deck: yes
+R1_P0_Tb161_direto.i written: 21 regions, 360 source entries, 109 element trials per photon
+R2_P0_piso_concreto.i written: 24 regions, 375 source entries, 412 element trials per photon
+metadados_testes.json written
+R1_P0_Tb161_direto.i OK {'ncells': 244, 'nsurf': 98, 'nent': 360, 'ntally': 4, 'npts': 228260} []
+R2_P0_piso_concreto.i OK {'ncells': 245, 'nsurf': 99, 'nent': 375, 'ntally': 3, 'npts': 228260} []

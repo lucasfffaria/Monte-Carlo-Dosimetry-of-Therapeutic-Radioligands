@@ -1,0 +1,62 @@
+177Lu-PSMA (typical model), H*(10) at 1 m in front of the patient (z=110 cm), 7.4 GBq:
+  t= 0.5 h (bladder empty           ) body  99.6 %IA + bladder  0.0%: H*(10) =   27.0 +-  0.3 uSv/h
+  t= 4.0 h (just after voiding      ) body  76.3 %IA + bladder  0.0%: H*(10) =   20.8 +-  0.2 uSv/h
+  t= 4.0 h (before void (2-h voids) ) body  76.3 %IA + bladder 11.4%: H*(10) =   25.5 +-  0.3 uSv/h
+  t= 6.0 h (after voiding           ) body  66.4 %IA + bladder  0.0%: H*(10) =   18.1 +-  0.2 uSv/h
+  t= 6.0 h (before void             ) body  66.4 %IA + bladder  9.2%: H*(10) =   21.9 +-  0.2 uSv/h
+  Demir et al. 2016 (7.4 GBq, n=23): 48+-13 (start), 23+-6 (4 h), 15+-4 (6 h) uSv/h at 1 m
+
+H*(10) per GBq in the body (uSv/h/GBq), 177Lu-PSMA distribution at 4 h, vs simplified point/line sources:
+  detector                              Lu177                 Tb161                 Pb212                 Ac225
+  front_g10_z110          36.51 P2.23 L0.73    46.28 P1.72 L0.67  1180.76 P2.04 L0.75   209.61 P2.17 L0.70
+  front_g30_z110          17.61 P1.48 L0.91    23.07 P1.04 L1.00   542.75 P1.45 L0.82    97.92 P1.53 L0.85
+  front_g50_z110          10.05 P1.29 L0.97    13.47 P0.81 L1.03   308.76 P1.26 L0.88    54.58 P1.33 L0.95
+  front_g100_z110          3.69 P1.17 L1.07     4.95 P0.67 L1.38   112.50 P1.13 L1.00    20.43 P1.12 L1.08
+  front_g200_z110          1.16 P1.07 L1.18     1.61 P0.55 L1.26    35.37 P0.99 L1.06     6.26 P1.04 L1.23
+  front_g300_z110          0.56 P1.02 L1.19     0.75 P0.57 L1.59    16.72 P0.95 L1.13     3.03 P1.08 L1.16
+  left_g100_z110           1.92 P0.83 L0.76     2.41 P0.32 L0.79    72.71 P0.93 L0.96    11.19 P0.98 L0.78
+  back_g100_z110           4.36 P1.07 L0.99     5.78 P0.60 L0.99   124.89 P1.13 L0.93    23.60 P1.05 L1.00
+  front_g100_z160          3.12 P0.94 L0.98     3.97 P0.65 L1.08    97.29 P0.93 L0.91    17.49 P0.90 L1.00
+  front_g100_z45           2.88 P1.19 L1.42     3.84 P0.79 L2.07    89.73 P1.12 L1.19    16.31 P1.18 L1.32
+  rel.err front_g300_z110 Lu177 3.0% Tb161 4.7% Pb212 3.1% Ac225 4.0%
+  rel.err left_g300_z110 Lu177 4.2% Tb161 6.8% Pb212 3.8% Ac225 5.3%
+  rel.err diag45_R225_z110 Lu177 3.1% Tb161 5.0% Pb212 3.1% Ac225 4.2%
+
+H*(10) per GBq (uSv/h): voxel patient (4 h distribution) vs bare point source in air at the trunk centre
+  detector            dist(cm)                 Lu177                Tb161                Pb212                Ac225
+  front_g10_z110        25.8     36.51 bare/vox 2.48     46.28 bare/vox 4.65   1180.76 bare/vox 2.43    209.61 bare/vox 2.49
+  front_g30_z110        45.5     17.61 bare/vox 1.64     23.07 bare/vox 2.99    542.75 bare/vox 1.69     97.92 bare/vox 1.71
+  front_g50_z110        65.5     10.05 bare/vox 1.39     13.47 bare/vox 2.47    308.76 bare/vox 1.44     54.58 bare/vox 1.48
+  front_g100_z110      115.4      3.69 bare/vox 1.22      4.95 bare/vox 2.17    112.50 bare/vox 1.27     20.43 bare/vox 1.28
+  front_g200_z110      215.3      1.16 bare/vox 1.12      1.61 bare/vox 1.91     35.37 bare/vox 1.16      6.26 bare/vox 1.20
+  front_g300_z110      315.3      0.56 bare/vox 1.08      0.75 bare/vox 1.91     16.72 bare/vox 1.14      3.03 bare/vox 1.15
+  left_g100_z110       128.0      1.92 bare/vox 1.91      2.41 bare/vox 3.63     72.71 bare/vox 1.60     11.19 bare/vox 1.89
+  back_g100_z110       112.0      4.36 bare/vox 1.10      5.78 bare/vox 1.97    124.89 bare/vox 1.21     23.60 bare/vox 1.17
+
+Table 2 (article 1): TIAC (h) and %IA at 4 h of the reference [177Lu]Lu-PSMA-617 model (physical decay included)
+  Whole body (excl. bladder contents)    TIAC   27.62 h   %IA(4 h)  76.32
+  Kidneys                                TIAC    2.62 h   %IA(4 h)   4.17
+  Salivary glands                        TIAC    0.45 h   %IA(4 h)   0.93
+  Liver                                  TIAC    1.75 h   %IA(4 h)   5.53
+  Spleen                                 TIAC    0.13 h   %IA(4 h)   0.61
+  Red marrow                             TIAC    0.38 h   %IA(4 h)   2.12
+  Tumour (bone, lymph nodes, prostate)   TIAC    8.64 h   %IA(4 h)   9.46
+  Remainder (incl. lacrimal glands)      TIAC   13.65 h   %IA(4 h)  53.49
+
+Table 3 (article 1): H*(10) per GBq in the body (uSv/h/GBq), 4 h distribution, bladder empty, z = 110 cm
+  radionuclide   direction   10 cm      30 cm      50 cm        1 m        2 m        3 m
+  Lu177          Front           36.5       17.6       10.1       3.69       1.16      0.561
+  Lu177          Back            52.5       22.7       12.5       4.36       1.32      0.587
+  Lu177          Left            18.9       8.46        4.8       1.92      0.646      0.303
+  Tb161          Front           46.3       23.1       13.5       4.95       1.61      0.751
+  Tb161          Back            65.2       29.1       16.1       5.78       1.68      0.779
+  Tb161          Left              24       10.2       5.83       2.41       0.73        0.4
+  Pb212          Front       1.18e+03        543        309        113       35.4       16.7
+  Pb212          Back        1.62e+03        676        365        125       38.1       18.4
+  Pb212          Left             709        325        184       72.7       23.5       11.2
+  Ac225          Front            210       97.9       54.6       20.4       6.26       3.03
+  Ac225          Back             290        125       68.5       23.6       6.97       3.18
+  Ac225          Left             113       50.3         29       11.2       3.88        1.8
+
+written: article1_detector_results.json (76 detectors; uSv/h or uGy/h per GBq in the body)
+written: article1_photon_spectra_1m.csv (fluence rate per unit lethargy, cm-2 s-1 GBq-1)

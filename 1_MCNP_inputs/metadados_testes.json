@@ -1,0 +1,1035 @@
+{
+ "R1_P0_Tb161_direto": {
+  "kind": "R1",
+  "nuclide": "Tb161",
+  "f_lines": 0.5,
+  "photons_per_decay_total": 0.748889,
+  "energy_entries": [
+   {
+    "kind": "line",
+    "E_MeV": 0.025651,
+    "photons_per_decay": 0.23199999999999998,
+    "p": 0.1548961194516143,
+    "p_deck": 0.154896
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.0287,
+    "photons_per_decay": 0.00037,
+    "p": 0.0002470326042978332,
+    "p_deck": 0.000247033
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.0438,
+    "photons_per_decay": 0.0006,
+    "p": 0.0004005934123748646,
+    "p_deck": 0.000400593
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.045208,
+    "photons_per_decay": 0.06280000000000001,
+    "p": 0.041928777161902506,
+    "p_deck": 0.0419288
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.045998,
+    "photons_per_decay": 0.11199999999999999,
+    "p": 0.07477743697664138,
+    "p_deck": 0.0747774
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.048915,
+    "photons_per_decay": 0.17,
+    "p": 0.11350146683954498,
+    "p_deck": 0.113501
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.0522,
+    "photons_per_decay": 0.036000000000000004,
+    "p": 0.02403560474249188,
+    "p_deck": 0.0240356
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.0536,
+    "photons_per_decay": 0.009399999999999999,
+    "p": 0.006275963460539545,
+    "p_deck": 0.00627596
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.05719,
+    "photons_per_decay": 0.0178,
+    "p": 0.01188427123378765,
+    "p_deck": 0.0118843
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.0592,
+    "photons_per_decay": 0.00021999999999999998,
+    "p": 0.000146884251204117,
+    "p_deck": 0.000146884
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.074567,
+    "photons_per_decay": 0.102,
+    "p": 0.06810088010372697,
+    "p_deck": 0.0681009
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.07740000000000001,
+    "photons_per_decay": 0.0006,
+    "p": 0.0004005934123748646,
+    "p_deck": 0.000400593
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.08794,
+    "photons_per_decay": 0.00183,
+    "p": 0.001221809907743337,
+    "p_deck": 0.00122181
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.10307,
+    "photons_per_decay": 0.00101,
+    "p": 0.0006743322441643554,
+    "p_deck": 0.000674332
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.1061,
+    "photons_per_decay": 0.00078,
+    "p": 0.000520771436087324,
+    "p_deck": 0.000520771
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.286,
+    "photons_per_decay": 0.000143,
+    "p": 9.547476328267607e-05,
+    "p_deck": 9.54748e-05
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.292,
+    "photons_per_decay": 0.00058,
+    "p": 0.0003872402986290358,
+    "p_deck": 0.00038724
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.344,
+    "photons_per_decay": 0.00013299999999999998,
+    "p": 8.879820640976164e-05,
+    "p_deck": 8.87982e-05
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.418,
+    "photons_per_decay": 8.099999999999999e-05,
+    "p": 5.4080110670606716e-05,
+    "p_deck": 5.40801e-05
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.476,
+    "photons_per_decay": 0.000182,
+    "p": 0.00012151333508704227,
+    "p_deck": 0.000121513
+   },
+   {
+    "kind": "line",
+    "E_MeV": 0.55,
+    "photons_per_decay": 0.00035999999999999997,
+    "p": 0.00024035604742491876,
+    "p_deck": 0.000240356
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.02565,
+    "grid_index": 0,
+    "photons_per_decay": 0.23220714690883063,
+    "p": 0.15503442226339992,
+    "p_deck": 0.155034
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.035,
+    "grid_index": 1,
+    "photons_per_decay": 0.0028066771108229277,
+    "p": 0.0018738939354316377,
+    "p_deck": 0.00187389
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.0457,
+    "grid_index": 2,
+    "photons_per_decay": 0.16231996047352826,
+    "p": 0.10837384477107305,
+    "p_deck": 0.108374
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.04892,
+    "grid_index": 3,
+    "photons_per_decay": 0.1842251472420153,
+    "p": 0.12299896729823465,
+    "p_deck": 0.122999
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.0526,
+    "grid_index": 4,
+    "photons_per_decay": 0.03819768885449982,
+    "p": 0.025502904205095694,
+    "p_deck": 0.0255029
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.0554,
+    "grid_index": 5,
+    "photons_per_decay": 0.017025507095766234,
+    "p": 0.011367176641509111,
+    "p_deck": 0.0113672
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.0632,
+    "grid_index": 6,
+    "photons_per_decay": 0.004432677432708316,
+    "p": 0.002959502297876131,
+    "p_deck": 0.0029595
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.07457,
+    "grid_index": 7,
+    "photons_per_decay": 0.10197519488182848,
+    "p": 0.06808431882550584,
+    "p_deck": 0.0680843
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.0771,
+    "grid_index": 8,
+    "photons_per_decay": 0.0005812462546582541,
+    "p": 0.0003880723676394326,
+    "p_deck": 0.000388072
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.0873,
+    "grid_index": 9,
+    "photons_per_decay": 0.0017503374744885134,
+    "p": 0.0011686227695215936,
+    "p_deck": 0.00116862
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.1,
+    "grid_index": 10,
+    "photons_per_decay": 0.0012583544393015512,
+    "p": 0.0008401474980281131,
+    "p_deck": 0.000840147
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.11295,
+    "grid_index": 11,
+    "photons_per_decay": 0.0006300618315516814,
+    "p": 0.000420664365180742,
+    "p_deck": 0.000420664
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.27737,
+    "grid_index": 17,
+    "photons_per_decay": 0.00028867700771275414,
+    "p": 0.0001927368459896955,
+    "p_deck": 0.000192737
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.30009,
+    "grid_index": 18,
+    "photons_per_decay": 0.0005310265142268608,
+    "p": 0.00035454287232611294,
+    "p_deck": 0.000354543
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.44044,
+    "grid_index": 19,
+    "photons_per_decay": 0.00020387152671495193,
+    "p": 0.00013611598428802662,
+    "p_deck": 0.000136116
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.51074,
+    "grid_index": 20,
+    "photons_per_decay": 0.0002544429207545879,
+    "p": 0.00016988026313284604,
+    "p_deck": 0.00016988
+   },
+   {
+    "kind": "grid",
+    "E_MeV": 0.58319,
+    "grid_index": 21,
+    "photons_per_decay": 0.00020098203059084517,
+    "p": 0.00013418679576736016,
+    "p_deck": 0.000134187
+   }
+  ],
+  "region_weights": {
+   "KID": 0.05462072174957052,
+   "LIV": 0.07247338375135275,
+   "SPL": 0.008005001117528894,
+   "SAL": 0.012222627253984627,
+   "UBW": 0.0005237588713067067,
+   "PRO": 0.0061983556761401135,
+   "SIN": 0.010473585453880923,
+   "COL": 0.00701701569909464,
+   "STO": 0.004189274984327048,
+   "BLD": 0.010809675288414767,
+   "HTW": 0.003456053129175265,
+   "LUN": 0.010999466699734818,
+   "SKL": 0.0725834460985009,
+   "SPO": 0.12081500201970292,
+   "MUS": 0.30372884634814395,
+   "ADI": 0.2144262252244113,
+   "SKN": 0.040663242118749034,
+   "BRN": 0.015569905763757325,
+   "LNT": 0.024793422704560454,
+   "LNO": 0.0003515962565771494,
+   "OTH": 0.006079393791085759
+  },
+  "tally_index": {
+   "F304": [
+    "front_g10_z110",
+    "front_g30_z90",
+    "front_g30_z110",
+    "front_g30_z135",
+    "front_g50_z90",
+    "front_g50_z110",
+    "front_g50_z135",
+    "front_g100_z90",
+    "front_g100_z110",
+    "front_g100_z135",
+    "front_g200_z90",
+    "front_g200_z110",
+    "front_g200_z135",
+    "front_g300_z110",
+    "back_g10_z110",
+    "back_g30_z90",
+    "back_g30_z110",
+    "back_g30_z135",
+    "back_g50_z90",
+    "back_g50_z110",
+    "back_g50_z135",
+    "back_g100_z90",
+    "back_g100_z110",
+    "back_g100_z135",
+    "back_g200_z90",
+    "back_g200_z110",
+    "back_g200_z135",
+    "back_g300_z110",
+    "left_g10_z110",
+    "left_g30_z90",
+    "left_g30_z110",
+    "left_g30_z135",
+    "left_g50_z90",
+    "left_g50_z110",
+    "left_g50_z135",
+    "left_g100_z90",
+    "left_g100_z110",
+    "left_g100_z135",
+    "left_g200_z90",
+    "left_g200_z110",
+    "left_g200_z135",
+    "left_g300_z110",
+    "right_g10_z110",
+    "right_g30_z90",
+    "right_g30_z110",
+    "right_g30_z135",
+    "right_g50_z90",
+    "right_g50_z110",
+    "right_g50_z135",
+    "right_g100_z90",
+    "right_g100_z110",
+    "right_g100_z135",
+    "right_g200_z90",
+    "right_g200_z110",
+    "right_g200_z135",
+    "right_g300_z110",
+    "diag45_R75_z110",
+    "diag45_R125_z110",
+    "diag45_R225_z110",
+    "diag135_R75_z110",
+    "diag135_R125_z110",
+    "diag135_R225_z110",
+    "diag225_R75_z110",
+    "diag225_R125_z110",
+    "diag225_R225_z110",
+    "diag315_R75_z110",
+    "diag315_R125_z110",
+    "diag315_R225_z110",
+    "front_g100_z20",
+    "front_g100_z45",
+    "front_g100_z70",
+    "front_g100_z160",
+    "left_g100_z20",
+    "left_g100_z45",
+    "left_g100_z70",
+    "left_g100_z160"
+   ],
+   "F314": [
+    "front_g10_z110",
+    "front_g30_z90",
+    "front_g30_z110",
+    "front_g30_z135",
+    "front_g50_z90",
+    "front_g50_z110",
+    "front_g50_z135",
+    "front_g100_z90",
+    "front_g100_z110",
+    "front_g100_z135",
+    "front_g200_z90",
+    "front_g200_z110",
+    "front_g200_z135",
+    "front_g300_z110",
+    "back_g10_z110",
+    "back_g30_z90",
+    "back_g30_z110",
+    "back_g30_z135",
+    "back_g50_z90",
+    "back_g50_z110",
+    "back_g50_z135",
+    "back_g100_z90",
+    "back_g100_z110",
+    "back_g100_z135",
+    "back_g200_z90",
+    "back_g200_z110",
+    "back_g200_z135",
+    "back_g300_z110",
+    "left_g10_z110",
+    "left_g30_z90",
+    "left_g30_z110",
+    "left_g30_z135",
+    "left_g50_z90",
+    "left_g50_z110",
+    "left_g50_z135",
+    "left_g100_z90",
+    "left_g100_z110",
+    "left_g100_z135",
+    "left_g200_z90",
+    "left_g200_z110",
+    "left_g200_z135",
+    "left_g300_z110",
+    "right_g10_z110",
+    "right_g30_z90",
+    "right_g30_z110",
+    "right_g30_z135",
+    "right_g50_z90",
+    "right_g50_z110",
+    "right_g50_z135",
+    "right_g100_z90",
+    "right_g100_z110",
+    "right_g100_z135",
+    "right_g200_z90",
+    "right_g200_z110",
+    "right_g200_z135",
+    "right_g300_z110",
+    "diag45_R75_z110",
+    "diag45_R125_z110",
+    "diag45_R225_z110",
+    "diag135_R75_z110",
+    "diag135_R125_z110",
+    "diag135_R225_z110",
+    "diag225_R75_z110",
+    "diag225_R125_z110",
+    "diag225_R225_z110",
+    "diag315_R75_z110",
+    "diag315_R125_z110",
+    "diag315_R225_z110",
+    "front_g100_z20",
+    "front_g100_z45",
+    "front_g100_z70",
+    "front_g100_z160",
+    "left_g100_z20",
+    "left_g100_z45",
+    "left_g100_z70",
+    "left_g100_z160"
+   ],
+   "F324": [
+    "front_g100_z110",
+    "left_g100_z110",
+    "back_g100_z110"
+   ],
+   "F344": [
+    "world_air"
+   ]
+  },
+  "regions": [
+   [
+    "KID",
+    "Kidneys"
+   ],
+   [
+    "LIV",
+    "Liver"
+   ],
+   [
+    "SPL",
+    "Spleen"
+   ],
+   [
+    "SAL",
+    "Salivary glands"
+   ],
+   [
+    "UBW",
+    "Urinary bladder wall"
+   ],
+   [
+    "PRO",
+    "Prostate"
+   ],
+   [
+    "SIN",
+    "Small intestine wall+contents"
+   ],
+   [
+    "COL",
+    "Colon+rectum walls+contents"
+   ],
+   [
+    "STO",
+    "Stomach wall+contents"
+   ],
+   [
+    "BLD",
+    "Blood (vessels, heart & lung blood)"
+   ],
+   [
+    "HTW",
+    "Heart wall"
+   ],
+   [
+    "LUN",
+    "Lung tissue"
+   ],
+   [
+    "SKL",
+    "Skeleton excl. red-marrow spongiosa (cortical, medullary, cartilage, teeth, appendicular spongiosa)"
+   ],
+   [
+    "SPO",
+    "Spongiosa of red-marrow sites, weighted by RBM mass (marrow / bone metastases)"
+   ],
+   [
+    "MUS",
+    "Muscle"
+   ],
+   [
+    "ADI",
+    "Adipose/residual tissue (incl. breast adipose)"
+   ],
+   [
+    "SKN",
+    "Skin"
+   ],
+   [
+    "BRN",
+    "Brain+spinal cord"
+   ],
+   [
+    "LNT",
+    "Lymph nodes, trunk"
+   ],
+   [
+    "LNO",
+    "Lymph nodes, other"
+   ],
+   [
+    "OTH",
+    "Other organs"
+   ]
+  ],
+  "region_prob": {
+   "KID": 0.05462072174957053,
+   "LIV": 0.07247338375135276,
+   "SPL": 0.008005001117528896,
+   "SAL": 0.012222627253984628,
+   "UBW": 0.0005237588713067068,
+   "PRO": 0.006198355676140114,
+   "SIN": 0.010473585453880926,
+   "COL": 0.007017015699094641,
+   "STO": 0.0041892749843270485,
+   "BLD": 0.01080967528841477,
+   "HTW": 0.0034560531291752653,
+   "LUN": 0.01099946669973482,
+   "SKL": 0.07258344609850091,
+   "SPO": 0.12081500201970294,
+   "MUS": 0.303728846348144,
+   "ADI": 0.21442622522441132,
+   "SKN": 0.04066324211874904,
+   "BRN": 0.015569905763757327,
+   "LNT": 0.024793422704560458,
+   "LNO": 0.0003515962565771495,
+   "OTH": 0.00607939379108576
+  },
+  "region_time_tag_shakes": {
+   "KID": 1000.0,
+   "LIV": 2000.0,
+   "SPL": 3000.0,
+   "SAL": 4000.0,
+   "UBW": 5000.0,
+   "PRO": 6000.0,
+   "SIN": 7000.0,
+   "COL": 8000.0,
+   "STO": 9000.0,
+   "BLD": 10000.0,
+   "HTW": 11000.0,
+   "LUN": 12000.0,
+   "SKL": 13000.0,
+   "SPO": 14000.0,
+   "MUS": 15000.0,
+   "ADI": 16000.0,
+   "SKN": 17000.0,
+   "BRN": 18000.0,
+   "LNT": 19000.0,
+   "LNO": 20000.0,
+   "OTH": 21000.0
+  },
+  "n_source_entries": 360,
+  "source_stats": {
+   "n_entries": 360,
+   "element_trials": 109.46644408974242,
+   "min_eff": 7.1158170381123165e-06,
+   "eff": 1e-08,
+   "n_dist": 3
+  },
+  "nps": 2000000000,
+  "ctme_min": 1200,
+  "deck": "R1_P0_Tb161_direto.i"
+ },
+ "R2_P0_piso_concreto": {
+  "kind": "R2",
+  "floor": {
+   "cell": 7900,
+   "material": 300,
+   "density_g_cm3": 2.3,
+   "box_cm": [
+    -420.0,
+    420.0,
+    -420.0,
+    420.0,
+    -30.01,
+    -0.01
+   ],
+   "composition_mass_fraction": {
+    "1000": 0.01,
+    "6000": 0.001,
+    "8000": 0.529107,
+    "11000": 0.016,
+    "12000": 0.002,
+    "13000": 0.033872,
+    "14000": 0.337021,
+    "19000": 0.013,
+    "20000": 0.044,
+    "26000": 0.014
+   }
+  },
+  "energy_grid_MeV": [
+   0.02565,
+   0.035,
+   0.0457,
+   0.04892,
+   0.0526,
+   0.0554,
+   0.0632,
+   0.07457,
+   0.0771,
+   0.0873,
+   0.1,
+   0.11295,
+   0.15,
+   0.1879,
+   0.20837,
+   0.21812,
+   0.23863,
+   0.27737,
+   0.30009,
+   0.44044,
+   0.51074,
+   0.58319,
+   0.72733,
+   0.86053,
+   1.1,
+   1.56693,
+   2.61451
+  ],
+  "energy_prob": [
+   0.07072049237596834,
+   0.004929471798293316,
+   0.05342157332111666,
+   0.05764789948863584,
+   0.016838144402622643,
+   0.02607615072773885,
+   0.011431886505953271,
+   0.03697133649250635,
+   0.007794774479853713,
+   0.007405057359965469,
+   0.006061332504180098,
+   0.05344955129309331,
+   0.005471825103245478,
+   0.004798595481688085,
+   0.1862921486534228,
+   0.01867756617196664,
+   0.02655502318978251,
+   0.007541981780040325,
+   0.013068581420338404,
+   0.08769037211905834,
+   0.016185887382158468,
+   0.043517693281394085,
+   0.017096908957403754,
+   0.015860833725942193,
+   0.008600651903085694,
+   0.030295417820851735,
+   0.16559884225969365
+  ],
+  "tally_index": {
+   "F304": [
+    "front_g10_z110",
+    "front_g30_z90",
+    "front_g30_z110",
+    "front_g30_z135",
+    "front_g50_z90",
+    "front_g50_z110",
+    "front_g50_z135",
+    "front_g100_z90",
+    "front_g100_z110",
+    "front_g100_z135",
+    "front_g200_z90",
+    "front_g200_z110",
+    "front_g200_z135",
+    "front_g300_z110",
+    "back_g10_z110",
+    "back_g30_z90",
+    "back_g30_z110",
+    "back_g30_z135",
+    "back_g50_z90",
+    "back_g50_z110",
+    "back_g50_z135",
+    "back_g100_z90",
+    "back_g100_z110",
+    "back_g100_z135",
+    "back_g200_z90",
+    "back_g200_z110",
+    "back_g200_z135",
+    "back_g300_z110",
+    "left_g10_z110",
+    "left_g30_z90",
+    "left_g30_z110",
+    "left_g30_z135",
+    "left_g50_z90",
+    "left_g50_z110",
+    "left_g50_z135",
+    "left_g100_z90",
+    "left_g100_z110",
+    "left_g100_z135",
+    "left_g200_z90",
+    "left_g200_z110",
+    "left_g200_z135",
+    "left_g300_z110",
+    "right_g10_z110",
+    "right_g30_z90",
+    "right_g30_z110",
+    "right_g30_z135",
+    "right_g50_z90",
+    "right_g50_z110",
+    "right_g50_z135",
+    "right_g100_z90",
+    "right_g100_z110",
+    "right_g100_z135",
+    "right_g200_z90",
+    "right_g200_z110",
+    "right_g200_z135",
+    "right_g300_z110",
+    "diag45_R75_z110",
+    "diag45_R125_z110",
+    "diag45_R225_z110",
+    "diag135_R75_z110",
+    "diag135_R125_z110",
+    "diag135_R225_z110",
+    "diag225_R75_z110",
+    "diag225_R125_z110",
+    "diag225_R225_z110",
+    "diag315_R75_z110",
+    "diag315_R125_z110",
+    "diag315_R225_z110",
+    "front_g100_z20",
+    "front_g100_z45",
+    "front_g100_z70",
+    "front_g100_z160",
+    "left_g100_z20",
+    "left_g100_z45",
+    "left_g100_z70",
+    "left_g100_z160"
+   ],
+   "F314": [
+    "front_g10_z110",
+    "front_g30_z90",
+    "front_g30_z110",
+    "front_g30_z135",
+    "front_g50_z90",
+    "front_g50_z110",
+    "front_g50_z135",
+    "front_g100_z90",
+    "front_g100_z110",
+    "front_g100_z135",
+    "front_g200_z90",
+    "front_g200_z110",
+    "front_g200_z135",
+    "front_g300_z110",
+    "back_g10_z110",
+    "back_g30_z90",
+    "back_g30_z110",
+    "back_g30_z135",
+    "back_g50_z90",
+    "back_g50_z110",
+    "back_g50_z135",
+    "back_g100_z90",
+    "back_g100_z110",
+    "back_g100_z135",
+    "back_g200_z90",
+    "back_g200_z110",
+    "back_g200_z135",
+    "back_g300_z110",
+    "left_g10_z110",
+    "left_g30_z90",
+    "left_g30_z110",
+    "left_g30_z135",
+    "left_g50_z90",
+    "left_g50_z110",
+    "left_g50_z135",
+    "left_g100_z90",
+    "left_g100_z110",
+    "left_g100_z135",
+    "left_g200_z90",
+    "left_g200_z110",
+    "left_g200_z135",
+    "left_g300_z110",
+    "right_g10_z110",
+    "right_g30_z90",
+    "right_g30_z110",
+    "right_g30_z135",
+    "right_g50_z90",
+    "right_g50_z110",
+    "right_g50_z135",
+    "right_g100_z90",
+    "right_g100_z110",
+    "right_g100_z135",
+    "right_g200_z90",
+    "right_g200_z110",
+    "right_g200_z135",
+    "right_g300_z110",
+    "diag45_R75_z110",
+    "diag45_R125_z110",
+    "diag45_R225_z110",
+    "diag135_R75_z110",
+    "diag135_R125_z110",
+    "diag135_R225_z110",
+    "diag225_R75_z110",
+    "diag225_R125_z110",
+    "diag225_R225_z110",
+    "diag315_R75_z110",
+    "diag315_R125_z110",
+    "diag315_R225_z110",
+    "front_g100_z20",
+    "front_g100_z45",
+    "front_g100_z70",
+    "front_g100_z160",
+    "left_g100_z20",
+    "left_g100_z45",
+    "left_g100_z70",
+    "left_g100_z160"
+   ],
+   "F324": [
+    "front_g100_z110",
+    "left_g100_z110",
+    "back_g100_z110"
+   ]
+  },
+  "regions": [
+   [
+    "KID",
+    "Kidneys"
+   ],
+   [
+    "LIV",
+    "Liver"
+   ],
+   [
+    "SPL",
+    "Spleen"
+   ],
+   [
+    "SAL",
+    "Salivary glands"
+   ],
+   [
+    "UBC",
+    "Urinary bladder contents"
+   ],
+   [
+    "UBW",
+    "Urinary bladder wall"
+   ],
+   [
+    "PRO",
+    "Prostate"
+   ],
+   [
+    "SIN",
+    "Small intestine wall+contents"
+   ],
+   [
+    "COL",
+    "Colon+rectum walls+contents"
+   ],
+   [
+    "STO",
+    "Stomach wall+contents"
+   ],
+   [
+    "BLD",
+    "Blood (vessels, heart & lung blood)"
+   ],
+   [
+    "HTW",
+    "Heart wall"
+   ],
+   [
+    "LUN",
+    "Lung tissue"
+   ],
+   [
+    "SKL",
+    "Skeleton excl. red-marrow spongiosa (cortical, medullary, cartilage, teeth, appendicular spongiosa)"
+   ],
+   [
+    "SPO",
+    "Spongiosa of red-marrow sites, weighted by RBM mass (marrow / bone metastases)"
+   ],
+   [
+    "MUS",
+    "Muscle"
+   ],
+   [
+    "ADI",
+    "Adipose/residual tissue (incl. breast adipose)"
+   ],
+   [
+    "SKN",
+    "Skin"
+   ],
+   [
+    "BRN",
+    "Brain+spinal cord"
+   ],
+   [
+    "LNT",
+    "Lymph nodes, trunk"
+   ],
+   [
+    "LNO",
+    "Lymph nodes, other"
+   ],
+   [
+    "OTH",
+    "Other organs"
+   ],
+   [
+    "PNT",
+    "Point source at trunk centre (simplified model)"
+   ],
+   [
+    "LIN",
+    "Line source along trunk axis (simplified model)"
+   ]
+  ],
+  "region_prob": {
+   "KID": 0.04166666666666668,
+   "LIV": 0.04166666666666667,
+   "SPL": 0.04166666666666667,
+   "SAL": 0.04166666666666667,
+   "UBC": 0.04166666666666667,
+   "UBW": 0.04166666666666667,
+   "PRO": 0.04166666666666667,
+   "SIN": 0.04166666666666667,
+   "COL": 0.04166666666666667,
+   "STO": 0.04166666666666667,
+   "BLD": 0.04166666666666667,
+   "HTW": 0.04166666666666667,
+   "LUN": 0.04166666666666668,
+   "SKL": 0.04166666666666667,
+   "SPO": 0.04166666666666667,
+   "MUS": 0.04166666666666667,
+   "ADI": 0.041666666666666664,
+   "SKN": 0.04166666666666667,
+   "BRN": 0.04166666666666667,
+   "LNT": 0.04166666666666667,
+   "LNO": 0.04166666666666667,
+   "OTH": 0.04166666666666667,
+   "PNT": 0.04166666666666667,
+   "LIN": 0.04166666666666667
+  },
+  "region_time_tag_shakes": {
+   "KID": 1000.0,
+   "LIV": 2000.0,
+   "SPL": 3000.0,
+   "SAL": 4000.0,
+   "UBC": 5000.0,
+   "UBW": 6000.0,
+   "PRO": 7000.0,
+   "SIN": 8000.0,
+   "COL": 9000.0,
+   "STO": 10000.0,
+   "BLD": 11000.0,
+   "HTW": 12000.0,
+   "LUN": 13000.0,
+   "SKL": 14000.0,
+   "SPO": 15000.0,
+   "MUS": 16000.0,
+   "ADI": 17000.0,
+   "SKN": 18000.0,
+   "BRN": 19000.0,
+   "LNT": 20000.0,
+   "LNO": 21000.0,
+   "OTH": 22000.0,
+   "PNT": 23000.0,
+   "LIN": 24000.0
+  },
+  "n_source_entries": 375,
+  "source_stats": {
+   "n_entries": 375,
+   "element_trials": 411.9347017472449,
+   "min_eff": 7.1158170381123165e-06,
+   "eff": 1e-08,
+   "n_dist": 19
+  },
+  "nps": 2000000000,
+  "ctme_min": 1200,
+  "deck": "R2_P0_piso_concreto.i"
+ }
+}
